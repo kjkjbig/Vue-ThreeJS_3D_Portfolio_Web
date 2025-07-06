@@ -32,10 +32,12 @@
                 <li>Git/GitHub</li>
                 <li>Canva (Graphic Design)</li>
             </ul>
-            <h2>Game Development</h2>
+            <h2>Others</h2>
             <ul>
-                <li>Roblox (Lua scripting)</li>
-                <li>Blender (Game assets)</li>
+                <li>Game Development</li>
+                <li>AI/Deep Learning (YOLO)</li>
+                <li>Web Development</li>
+                <li>Content Creation (<a href="https://www.youtube.com/@Bcoding-65">Bcoding</a>)</li>
             </ul>
         </div>
     </div>
@@ -46,6 +48,15 @@
 </script>
 
 <style scoped>
+
+    a{
+        text-decoration: none;
+        color:lightblue;
+    }
+
+    a:hover{
+        color: black;
+    }
 
     .s1{
         display: none;

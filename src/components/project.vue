@@ -73,7 +73,7 @@
 
     const boxes = ref([
     {
-        title: 'Experience',
+        title: 'Experience ⮜',
         visible: false,
         items: [
         {
@@ -89,7 +89,7 @@
         ]
     },
     {
-        title: 'Projects',
+        title: 'Projects ⮜',
         visible: false,
         items: [
         { 
@@ -107,7 +107,7 @@
         ]
     },
     {
-        title: 'Other',
+        title: 'Other ⮜',
         visible: false,
         items: [
         { 
@@ -151,7 +151,7 @@
         background: none;
         border: none;
         font-size: 2rem;
-        color: white;
+        color: lightblue;
         font-weight: bold;
         transition: all 0.3s ease;
         margin-bottom: 2.5vh;
